@@ -1,0 +1,11 @@
+[package]
+name = "t_rust_pilot"
+version = "0.1.0"
+authors = ["Jens Tuxen <mail@jenstuxen.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
+permutohedron = "0.2.2"
+smallvec = "0.4.0"
+smallstring = "0.1.2"
+
